@@ -9,7 +9,7 @@ cloud.google.com/go/compute/metadata
 # github.com/766b/chi-prometheus v0.0.0-20211217152057-87afa9aa2ca8
 ## explicit
 github.com/766b/chi-prometheus
-# github.com/99designs/basicauth-go v0.0.0-20160802081356-2a93ba0f464d
+# github.com/99designs/basicauth-go v0.0.0-20230316000542-bf6f9cbbf0f8
 ## explicit
 github.com/99designs/basicauth-go
 # github.com/Masterminds/goutils v1.1.1

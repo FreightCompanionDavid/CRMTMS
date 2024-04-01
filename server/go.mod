@@ -8,13 +8,14 @@ go 1.19
 
 require (
 	github.com/766b/chi-prometheus v0.0.0-20211217152057-87afa9aa2ca8
-	github.com/99designs/basicauth-go v0.0.0-20160802081356-2a93ba0f464d
+	github.com/99designs/basicauth-go v0.0.0-20230316000542-bf6f9cbbf0f8
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/PaesslerAG/gval v1.2.1
 	github.com/SentimensRG/ctx v0.0.0-20180729130232-0bfd988c655d
 	github.com/asaskevich/govalidator v0.0.0-20210307081110-f21760c49a8d
 	github.com/bep/godartsass/v2 v2.0.0
 	github.com/brianvoe/gofakeit/v6 v6.16.0
+	github.com/cespare/xxhash/v2 v2.2.0
 	github.com/crewjam/saml v0.4.14
 	github.com/crusttech/go-oidc v0.0.0-20180918092017-982855dad3e1
 	github.com/davecgh/go-spew v1.1.1
@@ -92,7 +93,6 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/beevik/etree v1.3.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
-	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/cli/safeexec v1.0.1 // indirect
 	github.com/crewjam/httperr v0.2.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
