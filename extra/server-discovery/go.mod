@@ -3,7 +3,7 @@ module github.com/cortezaproject/corteza/extra/server-discovery
 go 1.19
 
 require (
-	github.com/cortezaproject/corteza/server v0.0.0-00010101000000-000000000000
+	github.com/cortezaproject/corteza/server v0.0.0-20240328092128-5a4f9344be48
 	github.com/davecgh/go-spew v1.1.1
 	github.com/elastic/go-elasticsearch/v7 v7.12.0
 	github.com/go-chi/chi/v5 v5.0.7
